@@ -1,4 +1,4 @@
-# notes
+# NOTAS
 La aplicación debe implementar 3 funciones:
 
 -Crear una nueva nota: El usuario deberá poder escribir una nueva nota y presionar el botón "crear" para agregar una nueva nota a la lista. La nueva nota debe aparecer al final de la lista.
