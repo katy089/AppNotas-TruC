@@ -1,10 +1,13 @@
 # NOTAS
-La aplicación debe implementar 3 funciones:
+La aplicación debe implementar 4 funciones:
 
 -Crear una nueva nota: El usuario deberá poder escribir una nueva nota y presionar el botón "crear" para agregar una nueva nota a la lista. La nueva nota debe aparecer al final de la lista.
+
 -Ver las notas creadas: La aplicación debe mostrar una lista de todas las notas creadas hasta el momento. -Cada nota debe mostrar su texto y un botón "Borrar".
+
 -Actualizar notas: Con las notas ya creadas puedes cambiar la descripción.
-Eliminar notas: El usuario debe ser capaz de eliminar una nota presionando su botón "Borrar".
+
+-Eliminar notas: El usuario debe ser capaz de eliminar una nota presionando su botón "Borrar".
 
 
 ## Project setup
